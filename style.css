@@ -25,8 +25,8 @@
 body {
     background-color: #262626;
     justify-content: center;
-    width: 2250px;
-    height: 1500px;
+    width: 1250px;
+    height: 625px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
